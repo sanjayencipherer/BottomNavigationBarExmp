@@ -10,7 +10,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
-class FragmentSearch extends Fragment {
+public class FragmentSearch extends Fragment {
 
    public FragmentSearch() {
       super(R.layout.fragment_main);

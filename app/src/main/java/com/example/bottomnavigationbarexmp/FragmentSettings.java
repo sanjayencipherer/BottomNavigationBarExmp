@@ -10,7 +10,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
-class FragmentSettings extends Fragment {
+public class FragmentSettings extends Fragment {
 
    public FragmentSettings() {
       super(R.layout.fragment_main);
